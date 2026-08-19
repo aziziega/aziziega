@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋 I’m Azizi, Full-stack Web  Developer based in Indonesia 🇮🇩<br>Turning ideas into fast, scalable, and user-friendly web experiences. end-to-end web solutions with Next.js, React, Supabase, and Node.js.</h2>
+<h2 align="left">Hey 👋 I’m Azizi, Full-stack Web  Developer based in Indonesia 🇮🇩<br>Turning ideas into fast, scalable, and user-friendly web experiences. end-to-end web solutions with Next.js, React.js, Supabase, and Node.js.</h2>
 
 ###
 
